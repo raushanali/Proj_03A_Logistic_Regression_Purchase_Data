@@ -14,10 +14,15 @@ Create a Confusion Matrix and calculate the accuracy score
 Visualize the data and model predictions (scatter plots and decision boundary)
 
 How to Use: 
+
 Place the Purchase_Logistic.csv file with the project.
+
 Run the code in Python (make sure pandas, scikit-learn, numpy, and matplotlib are installed).
 
 When you run the code, you will get:
+
 A scatter plot of the data
+
 Visualization of the Logistic Regression decision boundary
+
 Confusion matrix and accuracy score, so you can see the model’s performance
